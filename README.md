@@ -5,3 +5,6 @@
 
 ### Get Script
     wget https://github.com/JuanBindez/onion/blob/main/onion.sh
+
+### Chmod
+    chmod -v +x onion.sh
