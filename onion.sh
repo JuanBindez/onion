@@ -6,4 +6,3 @@ echo "deb [signed-by=/usr/share/keyrings/tor-archive-keyring.gpg] https://deb.to
 sudo apt update
 sudo apt install tor torbrowser-launcher -y
 sudo systemctl status tor
-torbrowser-launcher
